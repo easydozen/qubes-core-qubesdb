@@ -91,7 +91,7 @@ enum qdb_msg {
 };
 
 #define QDB_MAX_DATA 3072
-#define QDB_MAX_PATH 64
+#define QDB_MAX_PATH 96
 
 #define QDB_INVALID_CMD 0xff
 
